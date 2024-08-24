@@ -2,6 +2,7 @@
  
 past attempts is a folder that has smaller attempts, whereas dedicated folders for an attempt are listed as such
 
+wsg
 
 do all the download things, like 
 
