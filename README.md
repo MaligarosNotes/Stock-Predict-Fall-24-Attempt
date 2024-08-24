@@ -1,6 +1,6 @@
-# Stock Predict Summer 24' Attempts
+# Personal Trading Assistant
  
-past attempts is a folder that has smaller attempts, whereas dedicated folders for an attempt are listed as such
+
 
 
 do all the download things, like 
